@@ -1,18 +1,6 @@
-## My Project
+This repository contains code related to the paper "Approximate Nearest-Neighbor Search through Modern Error-Correcting Codes" by Noam Touitou and Nissim Halabi.
+In particular, this repository contains an implementation of the PCNN algorithm for nearest-neighbor search, as well as code for its evaluation against some baselines, as described in detail in the paper. 
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-* Write in your license below and create a LICENSE file
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This library is licensed under the LICENSE NAME HERE License.
-
+Note that the code in this repository makes use of (a heavily modified version of) the python polar coding library in https://github.com/fr0mhell/python-polar-coding.
+ 
+The code is distributed under the CC-BY-NC 4.0 license; see [license file](license_cc_by_nc.txt)
